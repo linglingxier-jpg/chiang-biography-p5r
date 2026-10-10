@@ -30,3 +30,7 @@ python -m http.server 4173 --directory dist
 展示字體 Dela Gothic One、Noto Sans CJK TC、Anton 的许可見 `dist/assets/FONT-LICENSES.txt`。其他圖片依各來源的授權條件使用；本倉庫不對第三方素材另行授權。
 
 研究與檢查紀錄：`research/P5R-ART-DIRECTION.md`、`research/HISTORICAL-IMAGES.json`、`research/QA.md`。
+
+## 開源许可
+
+本專案的原創 HTML、CSS、JavaScript 與專案說明採用 [MIT License](LICENSE)。MIT 不替第三方圖片、書封、歷史影像或字體另行授權；這些素材須遵守各來源標示的條件，字體许可收錄於 `dist/assets/FONT-LICENSES.txt`。
