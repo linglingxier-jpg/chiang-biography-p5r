@@ -34,3 +34,9 @@ python -m http.server 4173 --directory dist
 ## 開源许可
 
 本專案的原創 HTML、CSS、JavaScript 與專案說明採用 [MIT License](LICENSE)。MIT 不替第三方圖片、書封、歷史影像或字體另行授權；這些素材須遵守各來源標示的條件，字體许可收錄於 `dist/assets/FONT-LICENSES.txt`。
+
+## SVG 互動推文預覽
+
+https://linglingxier-jpg.github.io/chiang-biography-p5r/wechat-preview/
+
+源碼在 `dist/wechat-preview/index.html`，不使用 JavaScript。點擊可切換年份影像、目錄與重播標題。此為標準瀏覽器預覽，不表示公众号編輯器一定保留所有 SVG 動畫。
